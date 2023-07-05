@@ -76,11 +76,11 @@
       <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
       <property name="&lt;Super&gt;3" type="string" value="libreoffice --writer"/>
       <property name="override" type="bool" value="true"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="/usr/share/code/code --unity-launch %F"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;p" type="string" value="/home/base/Postman/Postman"/>
-      <property name="&lt;Super&gt;c" type="string" value="/snap/bin/chromium %U"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="~/Applications/extratermqt-0.70.0-linux-x64/extratermqt"/>
-      <property name="&lt;Alt&gt;WakeUp" type="string" value="~/Applications/idea-IC-221.5080.210/bin/idea.sh"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="/usr/bin/alacritty"/>
+      <property name="&lt;Super&gt;v" type="string" value="/usr/share/code/code --unity-launch "/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="/usr/share/code/code --unity-launch"/>
+      <property name="&lt;Super&gt;c" type="string" value="/home/base/Applications/ungoogled-chromium_110.0.5481.177-1.1.AppImage U% --force-dark-mode"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
