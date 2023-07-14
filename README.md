@@ -4,7 +4,11 @@ This repo includes my personal XFCE configuration and notes.
 
 ## Keyboard Shortcuts:
 
+### Install
 - Replace: ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
+
+### Configuring in XFCE
+- Settings Editor > xfce4-keyboard-shortcuts
 
 
 ## Highlight Focused Window:
