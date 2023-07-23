@@ -10,6 +10,13 @@ This repo includes my personal XFCE configuration and notes.
 ### Configuring in XFCE
 - Settings Editor > xfce4-keyboard-shortcuts
 
+## Panel Configuration
+
+### Installing Saved Configuration
+
+Right Click Panel > Panel > Panel Preferences > Profiles|Backup and Restore > Import 
+
+- base_panel_config.tar.bz2 
 
 ## Highlight Focused Window:
 
