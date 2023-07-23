@@ -23,3 +23,5 @@ Right Click Panel > Panel > Panel Preferences > Profiles|Backup and Restore > Im
 - To highlight the currently focused window use one of the following themes:
     - Kokodi
     - Moheli
+
+Goto: Settings Manager > Window Manager > Theme
